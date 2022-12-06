@@ -14,4 +14,4 @@ This page contains user documentation for the EyeTowers software products.
 
 ## Other Languages
 
-- [Čeština](cs/)
+- :czech_republic: [Čeština](cs/)

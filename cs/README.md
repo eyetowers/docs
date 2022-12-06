@@ -14,4 +14,4 @@ Tato stránka obsahuje uživatelskou dokumentaci k softwarovým produktům EyeTo
 
 ## Ostatní jazyky
 
-- [English](en/)
+- :uk: [English](en/)
