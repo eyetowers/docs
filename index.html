@@ -22,11 +22,30 @@
         '/([^/]*)': '/cs/$1',
       },
       themeColor: '#778ecb',
-      logo: '_media/logo.svg'
+      logo: '_media/logo.svg',
+
+      // Footer plugin.
+      loadFooter: true,
+
+      // Pagination plugin.
+      pagination: {
+        previousText: {
+          '/cs/': 'ZPĚT',
+          '/': 'PREV',
+        },
+        nextText: {
+          '/cs/': 'DALŠÍ',
+          '/': 'NEXT',
+        },
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify-pagination@2.10.1/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer@1.0.0-0/dist/docsify-footer.min.js"></script>
 </body>
 
 </html>
