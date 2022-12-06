@@ -6,8 +6,8 @@ Tato stránka obsahuje uživatelskou dokumentaci k softwarovým produktům EyeTo
 
 - [Portál](cs/portal.md)
 - [Přístup](cs/access.md)
-- [Alarmy](cs/alarms.md)
-- [Kamery](cs/video.md)
+- [Alarm](cs/alarm.md)
+- [Video](cs/video.md)
 - [Archiv](cs/recording.md)
 - [Často kladené otázky](cs/faq.md)
 - [Podpora](cs/support.md)
