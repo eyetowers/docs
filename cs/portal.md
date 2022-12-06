@@ -10,8 +10,8 @@ a jednotky (3), ke kterým máte přístup.
 
 ![Úvodní stránka](../_media/customers_overview.png)
 
-U organizací, kterých je přihlášený uživatel administrátor, se navíc aktivují volby pro správu
-uživatelů a identifikátorů (4).
+U organizací, kterých je přihlášený uživatel administrátor, se navíc aktivují volby pro
+[správu uživatelů](#správa-uživatelů) a identifikátorů (4).
 
 Na úrovni lokací je zvýrazněna indikace aktivovaného `armed`, deaktivovaného `disarmed`, nebo
 částečně aktivovaného `partial` alarmu celé lokality. Uživatelé s odpovídajícím oprávněním mohou
@@ -36,3 +36,19 @@ Barva ikony služby pak indikuje:
 - Modrá: služba je na jednotce aktivovaná a uživatel má na loklitě oprávnění službu použít.
 - Červená: služba je na jednotce aktivovaná, ale uživatel nemá oprávnění službu použít.
 - Šedá: služba na jednotce není aktivovaná.
+
+## Správa uživatelů
+
+Pouze administrátor organizace může spravovat její uživatele. Dialog správy uživatelů obsahuje
+jejich seznam s indikací administrátora (1) a akcemi pro editaci uživatele (2), editaci
+identifikátorů, např. čipová karta či telefon (3), reset hesla (4) a nevratné smazání uživatele (5).
+Dále je zde možnost přidání nového uživatele (6).
+
+![Správa uživatelů](../_media/customers_users.png)
+
+Nový uživatel je identifikován uživatelským jménem (1) a emailem (4). Obě tyto hodnoty musí být
+unkátní pro celý systém. Po přidání do systému administrátorem uživateli přijde email na zadanou
+emailovou adresu s odkazem na nastavení hesla do systému. Platnost odkazu je časově omezena. Pokud
+platnost vyprší, lze použít funkci "reset hesla" pro vygenerování nového emailu s platným odkazem.
+
+![Nový uživatel](../_media/customers_new_user.png)

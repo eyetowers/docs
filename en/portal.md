@@ -34,3 +34,19 @@ Color of the icon indicates:
 - Blue: the service is subscribed and the user has the necesasry site permissions to use it.
 - Red: the service is subscribed, but the user lacks the necesasry site permissions to use it.
 - Grey: the service is not subscribed.
+
+## User Management
+
+Only the administrator of an organization can manage its users. The user management dialog lists
+user of the organization with an indication of admin users (1) and actions for user editing (2),
+identifier editing, e.g., an access card or a phone number (3), password reset (4), and permanent
+user deletion (5). There is also an option to add new users to the organization (6).
+
+![User Management](../_media/customers_users.png)
+
+A new user is identified by their username (1) and email (4). Both these values must be unique for
+the entire system. After an admin adds a user, they receive an email with a link for setting their
+system password. The link validity is limitted. Should it expire, the "password reset" can be used
+to generate a new email with a valid link.
+
+![New User](../_media/customers_new_user.png)
