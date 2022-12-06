@@ -3,6 +3,5 @@
 - [Access](en/access.md)
 - [Alarm](en/alarm.md)
 - [Video](en/video.md)
-- [Archive](en/archive.md)
 - [FAQ](en/faq.md)
 - [Support](en/support.md)

@@ -3,6 +3,5 @@
 - [Přístup](cs/access.md)
 - [Alarm](cs/alarm.md)
 - [Video](cs/video.md)
-- [Archiv](cs/recording.md)
 - [Často kladené otázky](cs/faq.md)
 - [Podpora](cs/support.md)
