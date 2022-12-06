@@ -4,13 +4,15 @@ This page contains user documentation for the EyeTowers software products.
 
 ## Contents
 
-- [Portal](en/portal.md)
-- [Access](en/access.md)
-- [Alarm](en/alarm.md)
-- [Video](en/video.md)
-- [FAQ](en/faq.md)
-- [Support](en/support.md)
+- [Portal](/en/portal.md)
+- [Access](/en/access.md)
+- [Alarm](/en/alarm.md)
+- [Video](/en/video.md)
+- [FAQ](/en/faq.md)
 
-## Other Languages
+## Language
 
-- :czech_republic: [Čeština](cs/)
+## Jazyk
+
+- :czech_republic: [Čeština](/cs/)
+- :uk: [English](/en/)

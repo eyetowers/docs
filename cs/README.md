@@ -4,13 +4,13 @@ Tato stránka obsahuje uživatelskou dokumentaci k softwarovým produktům EyeTo
 
 ## Obsah
 
-- [Portál](cs/portal.md)
-- [Přístup](cs/access.md)
-- [Alarm](cs/alarm.md)
-- [Video](cs/video.md)
-- [Často kladené otázky](cs/faq.md)
-- [Podpora](cs/support.md)
+- [Portál](/cs/portal.md)
+- [Přístup](/cs/access.md)
+- [Alarm](/cs/alarm.md)
+- [Video](/cs/video.md)
+- [Často kladené otázky](/cs/faq.md)
 
-## Ostatní jazyky
+## Jazyk
 
-- :uk: [English](en/)
+- :czech_republic: [Čeština](/cs/)
+- :uk: [English](/en/)

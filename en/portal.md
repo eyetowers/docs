@@ -16,14 +16,16 @@ Organizations that the user administers have the option for managing user and id
 On the level of sites, there is an indicator of the alarm state for the entire site as either
 `armed`, `disarmed`, or `partial`. Users that have been granted the corresponding permission change
 the alarm state for the entire site (i.e., for all the units) by clicking on the indicator. In
-addition, an administrator has the option to manage user permissions for the site (5).
+addition, an administrator has the option to manage [user permissions](#user-permissions) for the
+site (5).
 
 Alarm state indicator is also present for each unit (3) and users with the necessary permission can
 also click it arm or disarm the alarm for the single unit. Icons on the bottom of the unit preview
 lead to the individual offered services:
 
-- Access
-- Alarm
+- [Access](/en/access.md)
+- [Alarm](/en/alarm.md)
+- [Video](/en/video.md)
 - Weather
 - Statistics
 - Tracking
@@ -49,4 +51,20 @@ the entire system. After an admin adds a user, they receive an email with a link
 system password. The link validity is limitted. Should it expire, the "password reset" can be used
 to generate a new email with a valid link.
 
+Don't forget to grant the new user [permissions](#user-permissions) to sites that they need to work
+with. Without those, the new user would not be able to see any sites in Portal.
+
 ![New User](../_media/customers_new_user.png)
+
+## User Permissions
+
+The administrator also sets user permissions for services in sites of the organizations they manage.
+
+![User Permissions](../_media/sites_permissions.png)
+
+The dialog for permission managements of a site list the users in the organization as rows and
+indicates which users are administrators (1) and if they can even see the site with their current
+permissions (2). The table columns correspond to permissions to use services in the given site:
+[access](/en/access.md) (3), [alarm](/en/alarm.md) (4), [video](/en/video.md#video) (5),
+[archive](/en/video.md#videoarchiv) (6), statistics (7), tracking (8) a timelapse (9). As a rule of
+thumb, the greener the color, the stronger the permissions.
