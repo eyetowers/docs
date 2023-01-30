@@ -4,3 +4,4 @@
 - [**Alarm**](/cs/alarm.md)
 - [**Video**](/cs/video.md)
 - [**Časté otázky**](/cs/faq.md)
+- [**technická dokumentace**](/cs/tech.md)
