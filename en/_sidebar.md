@@ -4,3 +4,4 @@
 - [**Alarm**](/en/alarm.md)
 - [**Video**](/en/video.md)
 - [**FAQ**](/en/faq.md)
+- [**Technical documentation**](/en/tech.md)
