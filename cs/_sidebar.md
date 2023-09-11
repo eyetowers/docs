@@ -3,5 +3,5 @@
 - [**Přístup**](/cs/access.md)
 - [**Alarm**](/cs/alarm.md)
 - [**Video**](/cs/video.md)
-- [**Časté otázky**](/cs/faq.md)
 - [**Technická dokumentace**](/cs/tech.md)
+- [**Časté otázky**](/cs/faq.md)
