@@ -8,6 +8,7 @@ This page contains user documentation for the EyeTowers software products.
 - [Access](/en/access.md)
 - [Alarm](/en/alarm.md)
 - [Video](/en/video.md)
+- [Technical documentation](/en/tech.md)
 - [FAQ](/en/faq.md)
 
 ## Language

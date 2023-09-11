@@ -8,6 +8,7 @@ Tato stránka obsahuje uživatelskou dokumentaci k softwarovým produktům EyeTo
 - [Přístup](/cs/access.md)
 - [Alarm](/cs/alarm.md)
 - [Video](/cs/video.md)
+- [Technická dokumentace](/cs/tech.md)
 - [Časté otázky](/cs/faq.md)
 
 ## Jazyk
